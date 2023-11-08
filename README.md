@@ -3,4 +3,4 @@ ansible project
 
 testing webhook
 
-save artifact
+save artifacts
